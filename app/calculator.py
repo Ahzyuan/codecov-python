@@ -16,3 +16,9 @@ class Calculator:
 
     def mul_add(x, y):
         return (x + y) * x
+    
+    def sub_add(x,y):
+        return (x - y) + x
+    
+    def div_add(x,y):
+        return (x / y) + x
